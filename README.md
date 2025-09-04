@@ -52,7 +52,7 @@ Run using the JAR (after building):
 
 java -jar SmartStudentPlatform.jar
 
-![WhatsApp Image 2025-09-04 at 08 04 54_1636d200](https://github.com/user-attachments/assets/a1cdf106-01f8-4e82-b0b9-2cd4ee201810)
+<img width="667" height="242" alt="image" src="https://github.com/user-attachments/assets/593c88f7-b458-4c97-ab6f-2b4833fa4b91" />
 
 
 5) How to use the app 
