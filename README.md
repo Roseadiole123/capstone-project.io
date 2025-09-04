@@ -20,8 +20,22 @@ Download or clone the project from the repository.
 
 git clone https://github.com/xamvi12/capstone-project.io.git
 
+Change Directory:
 cd capstone-project.io
 
+Compile the Code
+javac -d . *.java
+
+Package into a JAR
+jar cfe SmartStudentPlatform.jar 
+capstone.core.CapstoneCore capstone/core/*.class
+
+Run the Application
+java -jar SmartStudentPlatform.jar
+👉 The Swing GUI will open.
+
+So I created a **helper script run.sh**
+sudo nano run.sh
 
 Ensure run.sh is executable:
 
