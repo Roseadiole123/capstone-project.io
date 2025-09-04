@@ -40,7 +40,7 @@ java -jar SmartStudentPlatform.jar
 ![WhatsApp Image 2025-09-04 at 08 04 54_1636d200](https://github.com/user-attachments/assets/a1cdf106-01f8-4e82-b0b9-2cd4ee201810)
 
 
-5) How to use the app (your 2-page user manual in plain words)
+5) How to use the app 
 
 Add or update a student: enter ID and Name at the top, click “Add/Update Student”.
 
