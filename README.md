@@ -19,6 +19,7 @@ A desktop environment (Swing requires a GUI, not headless server)
 Download or clone the project from the repository.
 
 git clone https://github.com/xamvi12/capstone-project.io.git
+
 cd capstone-project.io
 
 
